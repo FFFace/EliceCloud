@@ -1,0 +1,16 @@
+/* body p {
+    width: 100px;
+    height: 50px;
+
+    color: green;
+    background-color: black;
+
+    padding: 200px 50px 0;
+} */
+
+body a {
+    color: aquamarine;
+    background-color: brown;
+
+    padding: 50px;
+}
