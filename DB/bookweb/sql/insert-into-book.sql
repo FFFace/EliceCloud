@@ -1,0 +1,1 @@
+insert into book (book_title, author_id, publisher_id, genre_id) value ("방황하는 칼날", 3, 5, 2);
